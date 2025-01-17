@@ -1,0 +1,3 @@
+pip install requests
+pip install matplotlib
+pip install pytest
